@@ -11,6 +11,7 @@
 
 Hi, I'm [Arnab Ray](https://www.linkedin.com/in/funky-poseidon/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Beside's Hacking stuff, I play computer games :video_game: and I am fitness enthusiast :muscle:.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farnabuchiha&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **arnabuchiha/arnabuchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,13 +36,29 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I will always help :smiley:
 - 📫 How to reach me: [@funky-poseidon](https://www.linkedin.com/in/funky-poseidon/)
 
-**Languages and Tools:**  
+**Languages and Frameworks:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arnabuchiha&show_icons=true&theme=tokyonight" alt="Abhishek-Maira" /> </p>
+
+<a href="https://github.com/arnabuchiha/CGuess-game" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arnabuchiha&repo=cguess-game&theme=dracula" />
+</a>
+<a href="https://github.com/arnabuchiha/SkinSense" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arnabuchiha&repo=skinsense&theme=dracula" />
+</a>
+</br>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+</div>
