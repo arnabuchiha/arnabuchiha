@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
+
+**Talking about Personal Stuffs:**
+
 - 🔭 I’m currently working on something amazing :wink:
 - 🌱 I’m currently learning Advanced Algo and node.js :sunglasses:
 - 💬 Ask me about anything, I will always help :smiley:
