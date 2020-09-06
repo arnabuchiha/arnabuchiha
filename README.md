@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
-
+<hr>
 </br>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arnabuchiha&show_icons=true&theme=tokyonight" alt="Arnab Ray" /> </p>
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/arnabuchiha/SkinSense" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arnabuchiha&repo=skinsense&theme=dracula" />
 </a>
+<hr>
 </br>
 <div align="center">
 
