@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="center">
-<a href="https://twitter.com/funky_poseidon" target="_blank"><img height=30 src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1636893415~hmac=3eacf0bd9b4b7ac6ddf3410a61f37dd0"/></a>&nbsp;&nbsp; 
 <a href="https://www.linkedin.com/in/funky-poseidon/" target="_blank"><img height=30 src="https://img.icons8.com/doodle/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/arnab_funky/" target="_blank"><img height=30 src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"/></a>&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/arnabray" target="_blank"><img height=30 src="https://api.iconify.design/simple-icons:codechef.svg"/></a>&nbsp;&nbsp;
@@ -35,6 +34,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Advanced Algo and node.js :sunglasses:
 - 💬 Ask me about anything, I will always help :smiley:
 - 📫 How to reach me: [@funky-poseidon](https://www.linkedin.com/in/funky-poseidon/)
+- 👾 You can check **my portfolio** here: [@arnabray.in](https://www.arnabray.in/)
 
 **Languages and Frameworks:**  
 
@@ -55,6 +55,12 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/arnabuchiha/CGuess-game" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arnabuchiha&repo=cguess-game&theme=dracula" />
+</a>
+<a href="https://github.com/DevMonkas/DrMonka" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevMonkas&repo=DrMonka&theme=dracula" />
+</a>
+<a href="https://github.com/arnabuchiha/Algorithm-Visualizer" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arnabuchiha&repo=Algorithm-Visualizer&theme=dracula" />
 </a>
 <a href="https://github.com/arnabuchiha/SkinSense" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arnabuchiha&repo=skinsense&theme=dracula" />
